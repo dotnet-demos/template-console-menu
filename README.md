@@ -1,5 +1,4 @@
-# template-console
-Template project for console demo applications
+# Template project for console demo applications with menu
 
 - .Net version - .Net 5
 - Nugets referenced
