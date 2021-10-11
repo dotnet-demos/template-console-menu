@@ -1,4 +1,4 @@
-# Template project for console demo applications with menu
+# Template project for .Net console demo applications with menu
 
 # Specifications
 
