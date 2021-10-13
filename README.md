@@ -12,3 +12,7 @@
 
 - Supported. Refer the [Program.cs](/src/Program.cs) file for more details
 - The options are injected as dependency to the [MenuService](/src/MenuService.cs then those are invoked based on selection. 
+
+# Other interesting console templates
+
+- [https://github.com/superwalnut/dotnet-console-app-template](https://github.com/superwalnut/dotnet-console-app-template)
