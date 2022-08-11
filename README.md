@@ -2,7 +2,7 @@
 
 # Specifications
 
-- .Net version - .Net 5
+- .Net version - .Net 6
 - Nugets referenced
 	- DotNet.Helpers
 	- easyconsolestd
